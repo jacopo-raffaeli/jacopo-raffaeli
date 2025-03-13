@@ -35,9 +35,8 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
 <p>
     <a href='https://www.linkedin.com/in/jacopo-raffaeli-852240303/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' height='28'></a> &nbsp
     <a href='https://github.com/jacopo-raffaeli'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' height='28'></a> &nbsp
-    <a href='mailto:#jacoporaffaeli.business@gmail.com'><img src='https://img.icons8.com/ios-filled/50/000000/email-open.png' height='28'></a>
+    <a href='mailto:#jacoporaffaeli.business@gmail.com'><img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' height='26'></a>
 </p>
-
 
 
 
