@@ -8,18 +8,6 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
 - BSc in Mathematical Engineering at Politecnico di Milano
 - MSc in Mathematical Engineering — Quantitative Finance track at Politecnico di Milano
 
-## 📜 **Principal Courses**
-
-- **Mathematical Finance**: Stochastic processes, option pricing, and portfolio optimization.
-- **Financial Engineering**: Modeling and managing financial instruments and derivatives.
-- **Computational Finance**: Numerical methods for pricing.
-- **Artificial Neural Networks**: Design and training of deep learning models for various applications.
-- **Machine Learning**: Supervised and unsupervised learning techniques for data-driven decision-making.
-
-## 🧑‍💻 **Projects**
-
-[...]
-
 ## 💻 **Technologies**
 
 <p>
@@ -29,6 +17,10 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='28'> &nbsp
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' height='28'> &nbsp
 </p>
+
+## 🧑‍💻 **Projects**
+
+[...]
 
 ## 📲 **Contacts**
 
