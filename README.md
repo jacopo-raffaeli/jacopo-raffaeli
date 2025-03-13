@@ -20,7 +20,7 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
 
 [...]
 
-## 🚀 **Skills**
+## 💻 **Technologies**
 
 <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='28'>  &nbsp 
