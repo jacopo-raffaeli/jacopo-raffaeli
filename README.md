@@ -18,10 +18,6 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' height='28'> &nbsp
 </p>
 
-## 🧑‍💻 **Projects**
-
-[...]
-
 ## 📲 **Contacts**
 
 <p>
