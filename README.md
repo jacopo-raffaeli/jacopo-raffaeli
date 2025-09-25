@@ -6,7 +6,8 @@ Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine 
 ## 🏫 **Education**
 
 - BSc in Mathematical Engineering at Politecnico di Milano
-- MSc in Mathematical Engineering — Quantitative Finance track at Politecnico di Milano
+- MSc in Mathematical Engineering, Track of Quantitative Finance at Politecnico di Milano
+
 
 ## 💻 **Technologies**
 
