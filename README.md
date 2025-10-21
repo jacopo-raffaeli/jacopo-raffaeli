@@ -3,7 +3,7 @@
 I am Jacopo Raffaeli, a **Mathematical Engineer** at Politecnico di Milano.
 Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine Learning**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-raffaeli&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopo-raffaeli&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏫 **Education**
 
