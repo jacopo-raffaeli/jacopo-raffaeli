@@ -1,4 +1,4 @@
-# 👋 **Welcome**
+#👋 **Welcome**
 
 I am Jacopo Raffaeli, a **Mathematical Engineer** at Politecnico di Milano.
 Currently pursuing a MSc with a focus on **Quantitative Finance** and **Machine Learning**.
